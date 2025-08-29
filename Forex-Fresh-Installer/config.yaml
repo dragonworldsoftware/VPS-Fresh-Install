@@ -1,0 +1,8 @@
+# config.yaml
+forex_com_login=""
+forex_com_password=""
+forex_com_server="Forex.com-Live 536"
+
+trading_com_login=""
+trading_com_password=""
+trading_com_server="Trading.comMarkets-MT5"
