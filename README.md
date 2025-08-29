@@ -1,4 +1,6 @@
-# VPS-Fresh-Install
+# Forex-Fresh-Installer
+
+## Designed for VPS or Customer Computer
 A PowerShell Batch Loader. Downloads and Installs either MT5 Forex.com or Trading.com
 
 ## Install Procedure
